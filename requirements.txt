@@ -1,0 +1,6 @@
+discord.py
+asyncio
+logging
+aiohttp
+async-timeout
+youtube-dl

@@ -1,0 +1,32 @@
+[
+    {
+        "channel_name": "\u301e\u029a\u30fbastral",
+        "expiry_info": "2025-03-14 06:14:11",
+        "slot_owner_id": 1328777294822510602,
+        "category_choice": 2,
+        "key": "T2H4OL0IXJ66V09DSNCQ",
+        "status": "Active",
+        "here_limit": 3,
+        "everyone_limit": 1
+    },
+    {
+        "channel_name": "\u301e\u029a\u30fbhsisg",
+        "expiry_info": "2025-03-05 06:35:17",
+        "slot_owner_id": 1328107444446036009,
+        "category_choice": 1,
+        "key": "QM0SBHSNER5BLSZ0CRII",
+        "status": "Active",
+        "here_limit": 1,
+        "everyone_limit": 0
+    },
+    {
+        "channel_name": "\u301e\u029a\u30fbhsisg",
+        "expiry_info": "2025-03-05 06:35:17",
+        "slot_owner_id": 1328107444446036009,
+        "category_choice": 1,
+        "key": "YWFABKKIH2EIC8VVJE7D",
+        "status": "Active",
+        "here_limit": 1,
+        "everyone_limit": 0
+    }
+]

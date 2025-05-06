@@ -1,0 +1,14 @@
+{
+    "autobuy": {
+        "category1": {
+            "weekly_price": 2.0,
+            "monthly_price": 2.0,
+            "lifetime_price": 3.0
+        },
+        "category2": {
+            "weekly_price": 33.0,
+            "monthly_price": 3.0,
+            "lifetime_price": 3.0
+        }
+    }
+}
